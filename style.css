@@ -164,6 +164,10 @@ article {
   font-size: 23px;
 }
 
+.insta-post-icons i:hover {
+  color: #929193;
+}
+
 .icon-spacing i {
   margin-right: 13px;
 }
@@ -282,4 +286,12 @@ a {
 
 a:visited {
   color: inherit;
+}
+
+a.line-below:hover {
+  text-decoration: underline;
+}
+
+a.tag {
+  color: #1B4B79;
 }
