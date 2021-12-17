@@ -284,6 +284,7 @@ input:focus {
 
 a {
   text-decoration: none;
+  color: inherit;
 }
 
 a:visited {
@@ -302,6 +303,7 @@ a.tag {
   #suggestions-section {
     display: none;
   }
+
   #navbar {
     width: 609px;
   }
